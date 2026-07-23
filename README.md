@@ -1,3 +1,3 @@
 # quantum-Radar-
-fawry assessment 
-first commit 
+
+Fawry assessment — Quantum Radar traffic violation system.
